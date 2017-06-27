@@ -17,6 +17,8 @@ public class MainActivity extends AppCompatActivity {
         numero = 0;
     }
 
+    /* hola que tal i com estas*/
+
     @Override
     protected void onStart() {
         super.onStart();
